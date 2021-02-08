@@ -20,7 +20,7 @@ ___
 ___
 
 
-<p align='center'>![image](hasta.gif)</p>
+![image](hasta.gif)
 
 <!--
 **Rajora0/rajora0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
