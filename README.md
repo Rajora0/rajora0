@@ -19,7 +19,6 @@
 
 * [Lattes](lattes.cnpq.br/6418556118997529)
 * [Orcid](orcid.org/0000-0002-4367-1416)
-* [Linkedin](https://www.linkedin.com/in/rafael-rangel-841b2747)
 
 ___
 
