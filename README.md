@@ -1,6 +1,6 @@
 <h1 style="text-align: center;;margin: 0 0px 0px 0;"><img width= 200px src="https://img.shields.io/badge/HELLO-WORLD!-000000"></h1> 
 
-<p style="width: 150px;float: left;margin: 0 5px 20px 0;" >
+<p style="width: 150px;float: left;margin: 0 5px 20px 0;alig:center" >
     <img width = 150 src="https://instagram.fppy6-1.fna.fbcdn.net/v/t51.2885-15/e35/46927041_1877630292333502_7920710926015922074_n.jpg?_nc_ht=instagram.fppy6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=EwbDZdSsJ5EAX-UUIVt&tp=1&oh=c921739f0569dea5dfd898d5a02103eb&oe=6052B2A5">
 </p>
 
